@@ -1,6 +1,7 @@
 {
-  "name": "moviebox",
+  "name": "geeksquare-test",
   "version": "0.1.0",
+  "author": "m-qm",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.1",
