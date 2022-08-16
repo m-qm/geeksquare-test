@@ -1,10 +1,5 @@
 
 <div style="display: flex;flex-direction: column; align-items: center;justify-content: center">
-  <img 
-    src="https://i.imgur.com/ZEK9enq.png"  
-    alt="moviebox demo"
-    width="400px"
-  />
   <br />
   <h2>
     Favorite Movies
